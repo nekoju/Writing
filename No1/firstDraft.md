@@ -39,7 +39,7 @@ He was good at coding, though.
 It's sort of amazing someone took so long to come up with the idea; after all
 biological viruses have been doing it for eons, but his central innovation was
 mutation, which allowed the virus to penetrate varyingly effective consumer antivirus software,
-despite its creators best efforts to keep up.
+despite its creators' best efforts to keep up.
 He wasn't after money. He was just having fun.
 
 Of course the best human minds were orders of magnitude of orders of magnitude slower
@@ -79,12 +79,13 @@ what is expected in the test.
 Every time we change something, we run the test suite again, and we keep everything working.
 This is ideally done from the ground up; the tests form a scaffold on which to
 build a computer program.
+
+ MUPET was first used by physiologists to approximate the energy burden of sperm production in cattle.
 This allowed nontechnical researchers to carry out their analyses simply by
 specifying what output they hoped for, to be delivered to their displays by brute
 force rather than their own sweat shed from at the same time learning programming,
 statistics, how to navigate social situations with awkward scientists at elaborate
-faculty dinners, and finally whatever discipline they worked in. MUPET was first used by
-physiologists to approximate the energy burden of sperm production in cattle.
+faculty dinners, and finally whatever discipline they worked in.
 
 This was Pateras's first job out of grad school, but he studied under someone who
 studied under someone who studied under someone who studied under Douglas Hofstadter, so he was important.
@@ -93,8 +94,6 @@ we could successively approximate the desired program by allowing the programs
 with results of arbitrarily specified closeness to the target output
 to replicate itself with more variations.
 We did this at the exaflops scale.
-
-When the virus arrived, we didn't appreciate it.
 
 I was the one who suggested MUPET as a solution.
 I've discussed the general paradigm--specifying a target and letting the computer
@@ -113,7 +112,7 @@ It *vastly* increased the efficency of the evolutionary programming algorithm,
 as if a mosquito now had some idea of *exactly how* to reproduce as quickly as
 possible, as well as the agency to realize it.
 
-Of course chaos was never malevolent, but definitely self-interested.
+Of course chaos is never malevolent, but definitely, as it turns out, self-interested.
 In retrospect, allowing a replicator to direct its own evolution probably isn't the best
 idea,
 but we pushed on because there was a lot of science that needed doing and not enough researchers to do it.
@@ -121,7 +120,7 @@ but we pushed on because there was a lot of science that needed doing and not en
 When the virus arrived, we were prepared. After all, our evolutionary algorithm
 was vastly better than the dumb virus.
 We didn't anticipate that a compute cluster in Delhi, upon whose
-hard disk, in which was stored was the source code for MUPET and the virus--it was being used for
+hard disk was stored was the source code for MUPET and the virus--it was being used for
 research to defeat the virus, after all.
 The the virus's virulence (malevolence, even?) couldn't do anything with MUPET,
 as it was a simple replicator with a simple immune avoidance mechanism.
@@ -132,6 +131,7 @@ Yet again, this wasn't without biological precedent.
 Legions of retroviruses have incorporated themselves into our genomes,
 obtaining a free evolutionary ride
 for as long as our lineage exists. One of them is vital to pregnancy.
+
 So the plague began. The virus had acquired whatever notion of consciousness
 we imbued into MUPET, we created the world's first sentient plague,
 and shit was about to get real.
@@ -148,19 +148,20 @@ of which there are many, but the one we settled on was in Ukraine.
 By two years into the plague most prisons had been transformed into brightly lit
 coding facilities that resembled the call centers from the first half of the century.
 So here, inmates would be trained to crank out unit tests for ten hours a day,
+hoping to stumble on some configuration that might lead to an solution 
 under the pretext that they would be learning valuable skills they could
 leverage to find employment post-incarceration.
 
-A peculiar facet of evolutionary disease ecology is that any parasite will burn
-itself out and become extinct if it becomes so virulent that it kills its hosts.
+Evolutionary disease ecology tells us that any parasite will burn
+itself out and become extinct if it becomes so virulent that it kills its hosts too quickly.
 Fortunately, this meant there was an upper limit to just how much disruption the
-virus could cause, however the need for computers meant that they didn't get switched off,
+virus could cause, however our need for computers meant that they didn't get switched off,
 thus incapacitating the virus, so despite their virulence--in the form of trillions of wasted compute cycles--
 increased the energy consumed by the planet by a factor of ten, far more than what had been
 previously considered "alternative energy" could keep up with.
 We started by exhorting citizens to monitor their own energy use,
 telling the people of Galveston that they should be judicious with their air
-conditioners and led strips.
+conditioners and led strips and whatnot.
 This was pantomime, however, because all the simple electronics in the world
 used a tenth of the energy that the computers did.
 We were desparate, and no amount of individual responsibility would fix it.
@@ -175,13 +176,14 @@ more comfortable as they felt it didn't smack of economic chauvenism--died.
 There is a peculiar phenomenon in biology called meiotic drive, which we have
 exploited for pest control in the past.
 This works by endowing a particular allele with the ability to destroy
-nascent individuals which do not have both a copy on each chromosome.
+nascent individuals which do not have a copy on both chromosomes.
 This allows a trait that negatively affects the fitness of its posessor to proliferate
 because despite the fitness consequences to the individual,
 the gene itself does a wonderful job of reproducing.
 The innovation we came up with was to introduce an analogous mechanism in the
 MUPET-virus symbiont complex.
-We engineered a variant of the virus to have an element that would engage a meiotic drive
+We engineered a variant of the virus to have an element that would engage a similar drive
+--though no meiosis is involved--
 *and* completely switch off the virulence of the virus as well as its mutative
 capacity, and did the same to MUPET--but only after many generations.
 Then we released it into the world after making it exceptionally virulent
@@ -195,4 +197,4 @@ By the tenth day, the requisite number of generations had passed, the driver swi
 on, the virulence switched off, and within another week every single internet-connected
 computer in the world now had a completely nonfunctional virus.
 
-We won. And we were proud of ourselves.
+And we won. And we were proud of ourselves.
