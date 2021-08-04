@@ -1,0 +1,197 @@
+---
+author: Mark Juers
+title: 
+date: today
+---
+
+# A Title
+### Mark Juers
+
+
+> There is grandeur in this view of life,
+> with its several powers,
+> having been originally breathed
+> into a few forms or into one;
+> and that, whilst this planet has gone cycling on
+> according to the fixed law of gravity,
+> from so simple a beginning
+> endless forms most beautiful and most wonderful
+> have been, and are being, evolved.
+Charles Darwin
+
+## Challenge (The Good Doctor Pateras)
+
+We've been reading stories about machine-mediated eschatology for decades.
+Genre blindness be damned, we were at least conceptually prepared.
+But we were expecting sentience! Not a virus.
+All the war and famine in human history pale in comparison to the body count
+visited by infectious disease.
+So it's only appropriate that a computer virus should destabilize society, now
+that we'd effectively erased every commonly deadly pathogen from the planet.
+
+It started as all computer viruses do. Someone was bored.
+Namely, Satsuke Hajime, a precocious, neurodivergent, 16 year-old aspiring physicist--
+unfortunately one with no understanding of biology.
+No understanding of parasite host-switching. No understanding of evolutionary
+innovation. No understanding of the implications of exponential growth!
+He was good at coding, though.
+It's sort of amazing someone took so long to come up with the idea; after all
+biological viruses have been doing it for eons, but his central innovation was
+mutation, which allowed the virus to penetrate varyingly effective consumer antivirus software,
+despite its creators best efforts to keep up.
+He wasn't after money. He was just having fun.
+
+Of course the best human minds were orders of magnitude of orders of magnitude slower
+than even the most modest computing clusters, so we had to be much more creative,
+and arrived at the conclusion that more computers were the only answer.
+
+Another "of course": our creativity was limited.
+Yes, we've written books and music, directed pornography,
+figured out that $e^(i \pi)$ = 1--whatever that means,
+arrived at the conclusion that the best temperature to sous-vide ribeye is 137 degrees Fahrenheit, etc., etc.
+But we---and the machines---had nothing on nature and its many small experiments,
+which met our Nabokov, our Aguilera, our Depardeaux, our Escher, our Darwin, and our Leno
+with parasites that manipulate their hosts' reproductive
+biology or brains as a boon to their own reproduction,
+bacteria that can thrive in pools of brimstone to the delight of middle-aged tourists,
+and shrimps with sonic boom-producing appendages.
+All from ignorant variation that may or may not do anything in a given ecological circumstance according to relatively
+simple stochastic processes that we have studied mathematically and empirically for quite a while.
+Chaos is nothing if not creative.
+In fact, one might stretch the definition a little and posit that the Creator *is* chaos.
+So we weaponized God.
+
+Our Ark of the Covenant was MUPET.
+Massively Parallel (Un)supervised Evolutionary Test-Driven Development.
+We developed the acronym for fun, as scientists are wont to do, when we still had fun.
+Not quite as much fun as the copper nanotubes people had with theirs, but still fun.
+Graeme Pateras was the director and head of research and development at the Federal Computing Research Agency,
+whose idea it was.
+
+As the name implies, test driven development is based on the notion that the
+a computer program should be written with an explicit goal in mind, and that
+each element of a program should be tested in its place every time a change is made,
+so as not to introduce new errors when a different function is changed,
+or simply to make sure everything works correctly *and continuously*.
+So we write a test function that fails if the specified return value is not
+what is expected in the test.
+Every time we change something, we run the test suite again, and we keep everything working.
+This is ideally done from the ground up; the tests form a scaffold on which to
+build a computer program.
+This allowed nontechnical researchers to carry out their analyses simply by
+specifying what output they hoped for, to be delivered to their displays by brute
+force rather than their own sweat shed from at the same time learning programming,
+statistics, how to navigate social situations with awkward scientists at elaborate
+faculty dinners, and finally whatever discipline they worked in. MUPET was first used by
+physiologists to approximate the energy burden of sperm production in cattle.
+
+This was Pateras's first job out of grad school, but he studied under someone who
+studied under someone who studied under someone who studied under Douglas Hofstadter, so he was important.
+He mused that by randomly seeding legions of simple computer programs with instructions at random
+we could successively approximate the desired program by allowing the programs
+with results of arbitrarily specified closeness to the target output
+to replicate itself with more variations.
+We did this at the exaflops scale.
+
+When the virus arrived, we didn't appreciate it.
+
+I was the one who suggested MUPET as a solution.
+I've discussed the general paradigm--specifying a target and letting the computer
+figure it out. This is the supervised part.
+Well, there are different kinds of mutations.
+The simplest is simply that a bit is flipped from 0 to 1 or vice-versa.
+But as in genetics, there are lots of different kinds of mutations.
+For instance, sometimes the insertion of a line, or the transposition of a line of code,
+or the duplication of a line, or the insertion of a random bit of code.
+Sky's the limit.
+From these mutations, the program learns which types of mutations approximate the desired output the best,
+and under which circumstances, and preferentially mutate the program in ways that
+are more likely to land near the target. This is the unsupervised part.
+This removed the ignorance.
+It *vastly* increased the efficency of the evolutionary programming algorithm,
+as if a mosquito now had some idea of *exactly how* to reproduce as quickly as
+possible, as well as the agency to realize it.
+
+Of course chaos was never malevolent, but definitely self-interested.
+In retrospect, allowing a replicator to direct its own evolution probably isn't the best
+idea,
+but we pushed on because there was a lot of science that needed doing and not enough researchers to do it.
+
+When the virus arrived, we were prepared. After all, our evolutionary algorithm
+was vastly better than the dumb virus.
+We didn't anticipate that a compute cluster in Delhi, upon whose
+hard disk, in which was stored was the source code for MUPET and the virus--it was being used for
+research to defeat the virus, after all.
+The the virus's virulence (malevolence, even?) couldn't do anything with MUPET,
+as it was a simple replicator with a simple immune avoidance mechanism.
+But MUPET found the virus, both of which were stored in Wilson Kumar's home directory,
+and incorporated its source code into itself during some research program or another
+to figure out how to defeat it.
+Yet again, this wasn't without biological precedent.
+Legions of retroviruses have incorporated themselves into our genomes,
+obtaining a free evolutionary ride
+for as long as our lineage exists. One of them is vital to pregnancy.
+So the plague began. The virus had acquired whatever notion of consciousness
+we imbued into MUPET, we created the world's first sentient plague,
+and shit was about to get real.
+
+Writing tests was vastly simpler than writing programs *and* tests,
+so blind to our own cynicism, we had prisoners do it when it became apparent
+that teams of well-trained and compensated computer scientists simply couldn't
+do it fast enough.
+One of these was Hajime himself. His virus, the judiciary had decided,
+singlehandedly unleashed a lahar on modernity.
+So he was commended to the care of the World Incarceration Agency for life, located on
+a barren, godforsaken patch of land with a tolerable climate,
+of which there are many, but the one we settled on was in Ukraine.
+By two years into the plague most prisons had been transformed into brightly lit
+coding facilities that resembled the call centers from the first half of the century.
+So here, inmates would be trained to crank out unit tests for ten hours a day,
+under the pretext that they would be learning valuable skills they could
+leverage to find employment post-incarceration.
+
+A peculiar facet of evolutionary disease ecology is that any parasite will burn
+itself out and become extinct if it becomes so virulent that it kills its hosts.
+Fortunately, this meant there was an upper limit to just how much disruption the
+virus could cause, however the need for computers meant that they didn't get switched off,
+thus incapacitating the virus, so despite their virulence--in the form of trillions of wasted compute cycles--
+increased the energy consumed by the planet by a factor of ten, far more than what had been
+previously considered "alternative energy" could keep up with.
+We started by exhorting citizens to monitor their own energy use,
+telling the people of Galveston that they should be judicious with their air
+conditioners and led strips.
+This was pantomime, however, because all the simple electronics in the world
+used a tenth of the energy that the computers did.
+We were desparate, and no amount of individual responsibility would fix it.
+
+So we made the controversial decision to start burning coal again.
+Our virally crippled supercomputers were so inefficient that we did as much climate damage
+in a decade as in the previous century.
+And so, well, a lot of people--mostly in the "unfortunate world", which is what
+we now called the "developing world", because it made self-styled progressives
+more comfortable as they felt it didn't smack of economic chauvenism--died.
+
+There is a peculiar phenomenon in biology called meiotic drive, which we have
+exploited for pest control in the past.
+This works by endowing a particular allele with the ability to destroy
+nascent individuals which do not have both a copy on each chromosome.
+This allows a trait that negatively affects the fitness of its posessor to proliferate
+because despite the fitness consequences to the individual,
+the gene itself does a wonderful job of reproducing.
+The innovation we came up with was to introduce an analogous mechanism in the
+MUPET-virus symbiont complex.
+We engineered a variant of the virus to have an element that would engage a meiotic drive
+*and* completely switch off the virulence of the virus as well as its mutative
+capacity, and did the same to MUPET--but only after many generations.
+Then we released it into the world after making it exceptionally virulent
+and just stopped.
+We stopped working; we stopped watching pornography; we stopped video calling.
+We just stopped.
+Within a week, every internet-connected computer on the planet was cranking out
+MUPET-viruses full-time, and our variant outcompeted the existing one on each
+of them.
+By the tenth day, the requisite number of generations had passed, the driver switched
+on, the virulence switched off, and within another week every single internet-connected
+computer in the world now had a completely nonfunctional virus.
+
+We won. And we were proud of ourselves.
