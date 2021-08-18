@@ -1,6 +1,6 @@
 --- author: Mark Juers title: date: today ---
 
-# A Title
+# Epistasis
 ### Mark Juers
 
 
@@ -207,6 +207,26 @@ So Coca-Cola acquired Citi.
 
 MUPET had only been used for research so far, but its success against the
 Plague had brought it into the public eye. In CitiWorks--Citi's cybernetics
-division *an engineer* now had the idea to use MUPET to develop robotics
+division--*an engineer* now had the idea to use MUPET to develop robotics
 software.
 
+Robotics software is somewhat low-level and compared to the just-in-time
+compiled languages that were now used for almost everything else.  <span
+style="color:blue">Why is robotics software low-level?</span> As can be seen,
+inevitabley, low-level programming became an exceedingly niche skill, that
+ultimately became unsustainably expensive for employers to pursue, which had
+effectively stalled robotics development for the last decade, Invis-ble Hand be
+damned. So again, MUPET came to the rescue.
+
+On February 3 --fuck it-- the dissertation was submitted with the title *A stochastic evoltionary algorithm applied to problems of compiled codebase prototyping" was submitted to the Cornell University's Department of Computational Biology and approved unanimously with no edits from her committee.
+
+The problem was that miniaturization had led to increasingly high-pressure lubricanted interfaces, which accelearted the deterioration of the lubricant.
+
+*boredome of reading papers: abstracts*
+*optimizing temp management for high pressure drilling apparatus*
+*glass transition temperature of silicone oils*
+*consolidation of corporate power by mergers*
+*as can be seen*
+
+She had immediately been hired by Google, now housed under the umbrella of Tesla, Inc.
+*A note on the timeline: It doesn't fucking matter.*
