@@ -1,7 +1,7 @@
---- author: Mark Juers title: date: today ---
+--- author: Neko ? title: date: today ---
 
 # Epistasis
-### Neko Juers
+### Neko ?
 
 
 > There is grandeur in this view of life, with its several powers, having been
