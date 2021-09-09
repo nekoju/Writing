@@ -1,6 +1,6 @@
 --- author: Mark Juers title: date: today ---
 
-# A Title
+# Epistasis
 ### Mark Juers
 
 
