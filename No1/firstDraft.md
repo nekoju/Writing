@@ -200,7 +200,7 @@ the nation's technology centers into bankruptcy. Following this, Citi
 reorganized itself into varyingly successful subdivisions, including one that
 did ok at finding venture capitalists to invest in in environmental
 restorations effors in the unfortunate world, and the most successful one that
-sold crush-infused soft drinks, which attracted the attention of the Coca-Cola
+sold *Cannabis*-infused soft drinks, which attracted the attention of the Coca-Cola
 company.
 
 So Coca-Cola acquired Citi.
