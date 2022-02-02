@@ -14,14 +14,15 @@ Charles Darwin
 
 
 
-## Challenge
+## *Medea*
 
 We've been reading stories about machine-mediated eschatology for decades.
 Genre blindness be damned, we were at least conceptually prepared. But we were
-expecting sentience! Not a virus. All the war and famine in human history pale
-in comparison to the body count visited by infectious disease. So it's only
-appropriate that a computer virus should destabilize society, now that we'd
-effectively erased every commonly deadly pathogen from the planet.
+expecting sentience! Not a virus. All the menace of all the war and famine in
+human history is an invitingly plush aspect of humanity beside pinfectious
+disease. So it's only appropriate that a computer virus should destabilize
+society, now that we'd effectively erased every commonly deadly pathogen from
+the planet.
 
 It started as all computer viruses do. Someone was bored. Namely, Satsuke
 Hajime, a precocious, neurodivergent, 16 year-old aspiring physicist--
@@ -40,7 +41,7 @@ creative, and arrived at the conclusion that more computers were the only
 answer.
 
 Another "of course": our creativity was limited. Yes, we've written books and
-music, directed pornography, figured out that $e^(i \pi)$ = 1--whatever that
+music, directed pornography, figured out that $e^(i \pi) = 1$--whatever that
 means, arrived at the conclusion that the best temperature to sous-vide ribeye
 is 137 degrees Fahrenheit, etc., etc. But we---and the machines---had nothing
 on nature and its many small experiments, which met our Nabokov, our Aguilera,
@@ -108,10 +109,8 @@ evolution probably isn't the best idea, but we pushed on because there was a
 lot of science that needed doing and not enough researchers to do it.
 
 When the virus arrived, we were prepared. After all, our evolutionary algorithm
-was vastly better than the dumb virus. We didn't anticipate that a compute
-cluster in Delhi, upon whose hard disk was stored was the source code for MUPET
-and the virus--it was being used for research to defeat the virus, after all.
-The the virus's virulence (malevolence, even?) couldn't do anything with MUPET,
+was vastly better than the dumb virus. The the virus's virulence (malevolence, even?) couldn't do anything with MUPET,
+*Deletion here; don't know what to replace it with.*
 as it was a simple replicator with a simple immune avoidance mechanism. But
 MUPET found the virus, both of which were stored in Wilson Kumar's home
 directory, and incorporated its source code into itself during some research
@@ -124,19 +123,20 @@ So the plague began. The virus had acquired whatever notion of consciousness we
 imbued into MUPET, we created the world's first sentient plague, and shit was
 about to get real.
 
-Writing tests was vastly simpler than writing programs *and* tests, so blind to
-our own cynicism, we had prisoners do it when it became apparent that teams of
-well-trained and compensated computer scientists simply couldn't do it fast
-enough. One of these was Hajime himself. His virus, the judiciary had decided,
-singlehandedly unleashed a lahar on modernity. So he was commended to the care
-of the World Incarceration Agency for life, located on a barren, godforsaken
-patch of land with a tolerable climate, of which there are many, but the one we
-settled on was in Ukraine. By two years into the plague most prisons had been
-transformed into brightly lit coding facilities that resembled the call centers
-from the first half of the century. So here, inmates would be trained to crank
-out unit tests for ten hours a day, hoping to stumble on some configuration
-that might lead to an solution under the pretext that they would be learning
-valuable skills they could leverage to find employment post-incarceration.
+Writing tests was vastly simpler than writing programs *and* tests, so we had
+prisoners do it when it became apparent that teams of well-trained and
+compensated computer scientists simply couldn't do it fast enough. One of these
+was Hajime himself. His virus, the judiciary had decided, singlehandedly
+unleashed a lahar on modernity. So he was commended to the care of the World
+Incarceration Agency for life, located on a barren, godforsaken patch of land
+with a tolerable climate, of which there are many, but the one we settled on
+was in Ukraine. By two years into the plague most prisons had been transformed
+into brightly lit coding facilities that resembled the call centers from the
+first half of the century. So here, inmates would be trained to crank out unit
+tests for ten hours a day, hoping to stumble on some configuration that might
+lead to an solution under the pretext that they would be learning valuable
+skills they could leverage to find employment post-incarceration writing unit
+tests.
 
 Evolutionary disease ecology tells us that any parasite will burn itself out
 and become extinct if it becomes so virulent that it kills its hosts too
@@ -183,7 +183,7 @@ And we won. And we were proud of ourselves.
 
 
 
-## Innovation
+## *In the light of evolution*
 
 The World became convinced that the reach of the Coca-Cola Company should be
 limited after the death rate from obesity in South America became noticable
