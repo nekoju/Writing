@@ -200,8 +200,8 @@ the nation's technology centers into bankruptcy. Following this, Citi
 reorganized itself into varyingly successful subdivisions, including one that
 did ok at finding venture capitalists to invest in in environmental
 restorations effors in the unfortunate world, and the most successful one that
-sold crush-infused soft drinks, which attracted the attention of the Coca-Cola
-company.
+sold *Cannabis*-infused soft drinks, which attracted the attention of the
+Coca-Cola company.
 
 So Coca-Cola acquired Citi.
 
@@ -218,9 +218,14 @@ ultimately became unsustainably expensive for employers to pursue, which had
 effectively stalled robotics development for the last decade, Invis-ble Hand be
 damned. So again, MUPET came to the rescue.
 
-On February 3 --fuck it-- the dissertation was submitted with the title *A stochastic evoltionary algorithm applied to problems of compiled codebase prototyping" was submitted to the Cornell University's Department of Computational Biology and approved unanimously with no edits from her committee.
+On February 3 --fuck it-- the dissertation was submitted with the title *A
+stochastic evoltionary algorithm applied to problems of compiled codebase
+prototyping" was submitted to the Cornell University's Department of
+Computational Biology and approved unanimously with no edits from her
+committee.
 
-The problem was that miniaturization had led to increasingly high-pressure lubricanted interfaces, which accelearted the deterioration of the lubricant.
+The problem was that miniaturization had led to increasingly high-pressure
+lubricanted interfaces, which accelearted the deterioration of the lubricant.
 
 *boredome of reading papers: abstracts*
 *optimizing temp management for high pressure drilling apparatus*
@@ -228,5 +233,5 @@ The problem was that miniaturization had led to increasingly high-pressure lubri
 *consolidation of corporate power by mergers*
 *as can be seen*
 
-She had immediately been hired by Google, now housed under the umbrella of Tesla, Inc.
-*A note on the timeline: It doesn't fucking matter.*
+She had immediately been hired by Google, now housed under the umbrella of
+Tesla, Inc.  *A note on the timeline: It doesn't fucking matter.*
