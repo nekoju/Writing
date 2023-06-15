@@ -206,7 +206,7 @@ company.
 So Coca-Cola acquired Citi.
 
 MUPET had only been used for research so far, but its success against the
-Plague had brought it into the public eye. In CitiWorks--Citi's cybernetics
+Plague had brought it into the public eye. In CitiWorks--the newly christened CitiDrank's cybernetics
 division *an engineer* now had the idea to use MUPET to develop robotics
 software.
 
