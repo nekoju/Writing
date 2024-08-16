@@ -38,7 +38,7 @@ creative, and arrived at the conclusion that more computers were the only
 answer.
 
 Another "of course": our creativity was limited. Yes, we've written books and
-music, directed pornography, figured out that $e^(i \pi)$ = 1--whatever that
+music, directed pornography, figured out that $e^{i \pi}$ = 1--whatever that
 means, arrived at the conclusion that the best temperature to sous-vide ribeye
 is 137 degrees Fahrenheit, etc., etc. But we---and the machines---had nothing
 on nature and its many small experiments, which met our Nabokov, our Aguilera,
@@ -233,3 +233,5 @@ lubricanted interfaces, which accelearted the deterioration of the lubricant.
 
 She had immediately been hired by Google, now housed under the umbrella of
 Tesla, Inc.  *A note on the timeline: It doesn't fucking matter.*
+
+ Most popular beverage: CitiDrank
